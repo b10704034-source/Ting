@@ -1,0 +1,7 @@
+{
+  "name": "電梯短講評分",
+  "description": "An application to help students record feedback from peers during case study sharing sessions. It allows for note-taking, audio recording of classmates' presentations, and self-recording for practice to track improvement over multiple sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
